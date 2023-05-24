@@ -12,6 +12,8 @@ Blinkit Clone is an innovative mobile application developed using Flutter and Fi
 </ul>
 </p>
 
+## <strong> Demonstration <br> </strong>
+https://github.com/Nandanair622/Blinkit-Clone/assets/97756235/1231829a-65f7-44d3-aa2f-10054b05296b
 
 ## <strong> Screenshots <br> </strong>
 Splash screen<br>
@@ -23,6 +25,10 @@ Login with phone number<br>
 
 <img src="https://github.com/Nandanair622/Blinkit-Clone/assets/97756235/ee19df70-9e27-4ee1-bdbd-aa4d5e25c3cf" alt="Screenshot" width="300">
 <img src="https://github.com/Nandanair622/Blinkit-Clone/assets/97756235/c1132ea3-06cb-4d48-962b-6b2c1b210cf3" alt="Screenshot" width="300">
+
+
+
+
 
 
 Home page<br>
