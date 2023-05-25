@@ -12,8 +12,7 @@ Blinkit Clone is an innovative mobile application developed using Flutter and Fi
 </ul>
 </p>
 
-## <strong> Demonstration <br> </strong>
-https://github.com/Nandanair622/Blinkit-Clone/assets/97756235/1231829a-65f7-44d3-aa2f-10054b05296b
+
 
 ## <strong> Screenshots <br> </strong>
 Splash screen<br>
